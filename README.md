@@ -9,6 +9,16 @@ Hibernate架构
 
 <pre>
 Mybatis技术
+
+      动态代理：
+              1）JDK动态代理
+                 需要提供接口
+              2）CGLIB
+                 不需要提供接口
+
+      Mybatis中的动态代理技术
+
+          
 </pre>
 
 <pre>
